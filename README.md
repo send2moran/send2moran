@@ -12,6 +12,6 @@ Latest Projects:
 | [**TinyTap**](https://github.com/send2moran/TinyTap-Home-Assignment) | [![GitHub issues](https://img.shields.io/github/issues/send2moran/TinyTap-Home-Assignment?color=green&logo=github&style=flat)](https://github.com/send2moran/TinyTap-Home-Assignment/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/send2moran/TinyTap-Home-Assignment?style=flat&logo=github)](https://github.com/send2moran/TinyTap-Home-Assignment/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/send2moran/TinyTap-Home-Assignment?style=flat&color=critical&logo=github)](https://github.com/send2moran/TinyTap-Home-Assignment/pulls?q=is%3Apr+is%3Aclosed)  |
 | 
 
-<sup>**[Click here](https://github.com/send2moran/send2moran/blob/master/PROJECTS.md)** *to view my other projects.</sup>*
+<sup>for all projects information **[Click here](https://github.com/send2moran/send2moran/blob/master/PROJECTS.md)**.</sup>
 
-to know [more](https://github.com/send2moran/send2moran/blob/master/ABOUT.md) about me
+ [about me](https://github.com/send2moran/send2moran/blob/master/ABOUT.md) 
