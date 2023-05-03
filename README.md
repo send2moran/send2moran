@@ -1,5 +1,5 @@
 
-### Hi there  [this is me](https://github.com/send2moran/send2moran/blob/master/ABOUT.md)  👋
+### Hi there 👋
 **Glad to see you here!** :star_struck: <br> ⚡ The green dots on my [**GitHub** profile](https://github.com/send2moran?tab=repositories) represent my journey ⚡
 
 
